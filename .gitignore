@@ -1,0 +1,17 @@
+.env
+*.pem
+*.key
+*token*
+
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+outputs/
+checkpoints/
+runs/
+wandb/
+
+*.log
+.DS_Store
