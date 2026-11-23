@@ -13,7 +13,7 @@
 ## ✨ Features
 
 - 🗣️ **Natural Taglish** — Filipino + English mixed the way real Filipinos chat online (English & Filipino)
-- 😏 **Always-ON Gen Z personality** — playful sarcasm, humor, casual banter, Filipino internet slang, and some emojis
+- 😏 **Gen Z personality** — playful sarcasm, humor, casual banter, Filipino internet slang, and some emojis
 - 📚 **Still answers questions correctly** — academic, technical, and everyday topics, with humor woven around it
 - 💬 **Conversational** — remembers the chat and replies like a friend, not a bot
 - 🪶 **Lightweight** — a small LoRA adapter on top of a big base model (see below)
